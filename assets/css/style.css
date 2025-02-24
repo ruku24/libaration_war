@@ -29,6 +29,7 @@ ul ,ol{
     background: #141d24;
 }
 
+
 .menu ul li a{
     color: #fff;
 }
@@ -41,7 +42,7 @@ ul ,ol{
     color: coral;
 }
 .carousel-item img{
-    height: 100vh;
+    height: 350px;
 }
 
 .inroduction_content p{
